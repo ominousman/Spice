@@ -228,6 +228,7 @@
     <Content Include="Content\landing\images\feature04.png" />
     <Content Include="Content\landing\images\Feed.png" />
     <Content Include="Content\landing\images\home-bg.jpg" />
+    <Content Include="Content\landing\images\home-bg2.jpg" />
     <Content Include="Content\landing\images\icon-arrow-right.png" />
     <Content Include="Content\landing\images\line-gray.gif" />
     <Content Include="Content\landing\images\logo-footer.png" />
