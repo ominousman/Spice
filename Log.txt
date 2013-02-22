@@ -1,0 +1,11 @@
+Friday 2-22-2012
+	+ Added squeeze page to site.
+
+Thursday 2-21-2012
+	+ Create github site
+	+ Bought template for landing page
+	+ Added landing page to site
+
+Wednesday 2-20-2013
+	+ Meet with Steve. Agreeded that I would build a simple site with a vanilla bean "Free WIth Shipping" page. 
+	  
